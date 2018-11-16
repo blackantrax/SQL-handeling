@@ -1,0 +1,124 @@
+﻿Question 1
+
+CODEPORT NOVOYAGE VILLE                                    NOM                                    
+-------- -------- ---------------------------------------- ----------------------------------------
+PMT      AC2003   Montréal                                 Port de Montréal                         
+PMV      AC2001   Vancouver                                Metro Vancouver                          
+PMV      AC2002   Vancouver                                Metro Vancouver                          
+PMV      AC2003   Vancouver                                Metro Vancouver                          
+PMV      AC2007   Vancouver                                Metro Vancouver                          
+
+Question 2
+
+CODEPORT NOVOYAGE VILLE                                    NOM                                    
+-------- -------- ---------------------------------------- ----------------------------------------
+PMT      AC2003   Montréal                                 Port de Montréal                         
+PMV      AC2001   Vancouver                                Metro Vancouver                          
+PMV      AC2002   Vancouver                                Metro Vancouver                          
+PMV      AC2003   Vancouver                                Metro Vancouver                          
+PMV      AC2004   Vancouver                                Metro Vancouver                          
+PMV      AC2007   Vancouver                                Metro Vancouver                          
+
+ 6 rows selected 
+
+Question 3
+
+NOVOYAGE NBDETRAVERSEES
+-------- --------------
+AC2001                2 
+AC2002                1 
+AC2003                3 
+AC2004                1 
+AC2007                1 
+
+Question 4
+
+NOVOYAGE MAXPRIX
+-------- -------
+AC2001   1010.02 
+AC2002   5275.25 
+AC2003    199.99 
+AC2006   9999.99 
+
+Question 5
+
+NOVOYAGE NBDETRAVERSEES
+-------- --------------
+AC2001                2 
+AC2002                1 
+AC2003                3 
+AC2004                1 
+AC2005                0 
+AC2006                0 
+AC2007                1 
+
+ 7 rows selected 
+
+Question 6
+
+CODEPORT
+--------
+PDH      
+PMT      
+PNY      
+POC      
+PSH      
+
+Question 7
+
+CODEPORT
+--------
+PMT      
+PSH      
+
+Question 8
+
+NOVOYAGE TYPEDEVOYAGE
+-------- ------------
+AC2003   nolisé       
+
+Question 9
+
+CODEPORT
+--------
+PSH      
+
+Question 10
+
+NOVOYAGE
+--------
+AC2006   
+
+Question 11
+
+NOVOYAGE
+--------
+AC2001   
+
+Question 12
+
+CODEPORT
+--------
+PDH      
+PMT      
+PMV      
+PNY      
+POC      
+
+Question 13
+
+CODEPORT
+--------
+PDH      
+PMT      
+PMV      
+PNY      
+POC      
+
+Question 14
+
+                              NOBATEAU NOVOYAGE1                           NOTRAVERSEE1 NOVOYAGE2                           NOTRAVERSEE2
+-------------------------------------- --------- -------------------------------------- --------- --------------------------------------
+                                     1 AC2001                                         1 AC2007                                         1 
+                                     1 AC2001                                         2 AC2007                                         1 
+
