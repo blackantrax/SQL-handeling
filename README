@@ -1,1 +1,4 @@
 Creating tables and using them to execute a couple commands using Oracle 12 c
+
+    The project includes a script for creating tables and another one for adding values.
+      It also has a ".txt" file that contain the resuslts we suppose to obtain after entering the commands
